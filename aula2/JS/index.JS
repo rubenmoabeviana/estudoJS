@@ -1,0 +1,2 @@
+document.getElementById("texto").innerHTML="Meu primeiro Texto <b>JS</b>!";//document => reference ao documento html index.html, getElementById => pega o id do documento referenciado no meu caso o id do p lá do html , innerHTML => dar valor ao id e imprime o resultado
+console.log("teste no console ");//essa saida exibi no console do desenvolvedor para fazer teste
